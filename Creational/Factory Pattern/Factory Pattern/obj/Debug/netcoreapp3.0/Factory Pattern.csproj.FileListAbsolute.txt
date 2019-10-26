@@ -1,0 +1,11 @@
+G:\Design Pattern\Creational\Factory Pattern\Factory Pattern\bin\Debug\netcoreapp3.0\Factory Pattern.exe
+G:\Design Pattern\Creational\Factory Pattern\Factory Pattern\bin\Debug\netcoreapp3.0\Factory Pattern.deps.json
+G:\Design Pattern\Creational\Factory Pattern\Factory Pattern\bin\Debug\netcoreapp3.0\Factory Pattern.runtimeconfig.json
+G:\Design Pattern\Creational\Factory Pattern\Factory Pattern\bin\Debug\netcoreapp3.0\Factory Pattern.runtimeconfig.dev.json
+G:\Design Pattern\Creational\Factory Pattern\Factory Pattern\bin\Debug\netcoreapp3.0\Factory Pattern.dll
+G:\Design Pattern\Creational\Factory Pattern\Factory Pattern\bin\Debug\netcoreapp3.0\Factory Pattern.pdb
+G:\Design Pattern\Creational\Factory Pattern\Factory Pattern\obj\Debug\netcoreapp3.0\Factory Pattern.csprojAssemblyReference.cache
+G:\Design Pattern\Creational\Factory Pattern\Factory Pattern\obj\Debug\netcoreapp3.0\Factory Pattern.AssemblyInfoInputs.cache
+G:\Design Pattern\Creational\Factory Pattern\Factory Pattern\obj\Debug\netcoreapp3.0\Factory Pattern.AssemblyInfo.cs
+G:\Design Pattern\Creational\Factory Pattern\Factory Pattern\obj\Debug\netcoreapp3.0\Factory Pattern.dll
+G:\Design Pattern\Creational\Factory Pattern\Factory Pattern\obj\Debug\netcoreapp3.0\Factory Pattern.pdb
