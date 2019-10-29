@@ -1,0 +1,11 @@
+G:\Design Pattern\Creational\Creational-Project\Creational-Project\bin\Debug\netcoreapp3.0\Creational-Project.exe
+G:\Design Pattern\Creational\Creational-Project\Creational-Project\bin\Debug\netcoreapp3.0\Creational-Project.deps.json
+G:\Design Pattern\Creational\Creational-Project\Creational-Project\bin\Debug\netcoreapp3.0\Creational-Project.runtimeconfig.json
+G:\Design Pattern\Creational\Creational-Project\Creational-Project\bin\Debug\netcoreapp3.0\Creational-Project.runtimeconfig.dev.json
+G:\Design Pattern\Creational\Creational-Project\Creational-Project\bin\Debug\netcoreapp3.0\Creational-Project.dll
+G:\Design Pattern\Creational\Creational-Project\Creational-Project\bin\Debug\netcoreapp3.0\Creational-Project.pdb
+G:\Design Pattern\Creational\Creational-Project\Creational-Project\obj\Debug\netcoreapp3.0\Creational-Project.csprojAssemblyReference.cache
+G:\Design Pattern\Creational\Creational-Project\Creational-Project\obj\Debug\netcoreapp3.0\Creational-Project.AssemblyInfoInputs.cache
+G:\Design Pattern\Creational\Creational-Project\Creational-Project\obj\Debug\netcoreapp3.0\Creational-Project.AssemblyInfo.cs
+G:\Design Pattern\Creational\Creational-Project\Creational-Project\obj\Debug\netcoreapp3.0\Creational-Project.dll
+G:\Design Pattern\Creational\Creational-Project\Creational-Project\obj\Debug\netcoreapp3.0\Creational-Project.pdb
