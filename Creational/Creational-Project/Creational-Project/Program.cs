@@ -6,17 +6,14 @@ namespace Creational_Project
     {
         static void Main(string[] args)
         {
-            string input = Console.ReadLine();
-            HouseType houseType = new ConcreteBuilder();
+            string housename = Console.ReadLine();
 
-            HouseDirector houseDirector = houseType.GetHouseTypes(input);
+            House house = ChatroleagueTender.giveTenderToSohomotVai(housename);
 
-            BuilderCompany builderCompany = new BuilderCompany(houseDirector);
-
-            builderCompany.constructHouse();
-            House house = builderCompany.GetHouse();
-
-            Console.WriteLine(house._wall);
+            Console.WriteLine("{0} house made!" +
+                "using materials\n\n {1} for basement\n {2} for wall\n {3} for roof\n {4} for interior\n",
+                housename, house._basement, house._wall, house._roof, house._interior
+                );
         }
     }
 }

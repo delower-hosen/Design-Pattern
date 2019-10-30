@@ -4,31 +4,31 @@ using System.Text;
 
 namespace Creational_Project
 {
-    public class Hut : HouseDirector
+    public class TeenShade : HouseDirector
     {
         private House house;
-        public Hut()
+        public TeenShade()
         {
             this.house = House.GetHouseInstance;
         }
         public void buildBasement()
         {
-            this.house.setBasement("Bamboo");
+            this.house.setBasement("Rod, Cement, Brick");
         }
 
         public void buildInterior()
         {
-            this.house.setInterior("Soil");
+            this.house.setInterior("Cement and Sand");
         }
 
         public void buildRoof()
         {
-            this.house.setRoof("Straw");
+            this.house.setRoof("Teen");
         }
 
         public void buildWall()
         {
-            this.house.setWall("wood");
+            this.house.setWall("Brick");
         }
 
         public House getHouse()

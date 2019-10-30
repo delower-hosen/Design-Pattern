@@ -12,8 +12,12 @@ namespace Creational_Project
             {
                 case "hut":
                     return new Hut();
+                case "teenshade":
+                    return new TeenShade();
+                case "duplex":
+                    return new Duplex();
                 default:
-                    throw new ApplicationException(string.Format("Sorry, we can't make this computer!"));
+                    throw new ApplicationException(string.Format("Sorry, we can't make this type of house!"));
             }
         }
     }
